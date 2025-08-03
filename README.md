@@ -9,9 +9,9 @@ I Am A Self-Learned Linux User. Interested In Deep Components Of Linux, Cloud Co
 
 2. LockD - https://github.com/atikattar1104/LockD
 
-# Note!
+3. LockD v2 - https://github.com/atikattar1104/LockD-v2
 
-For Updated Projects, Check Out `https://gitlab.com/atikattar1104`.
+
 
 I Made This Github Pages Environment Of The Same Using Jekyll's 'Minimal' Theme.
 
