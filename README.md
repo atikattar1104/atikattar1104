@@ -1,7 +1,7 @@
 # Atik Shakil Attar - atikattar1104
 Hi There!
 
-I Am A Self-Learned Linux User. Interested In Deep Components Of Linux, Cloud Computing, Ethical Hacking, Networking, Deep Operating System Configurations, Music Creation, Etc.
+I Am A Linux Administrator. Interested In Deep Components Of Linux, Cloud Computing, Ethical Hacking, Networking, Artificial Intelligence, SQL, Python, Android Application Development, Etc.
 
 # My Projects - 
 
